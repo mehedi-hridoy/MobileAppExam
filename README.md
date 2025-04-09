@@ -1,16 +1,36 @@
-# mobile_exam
+# 📱 Mobile Application Lab Exam
 
-A new Flutter project.
+**Name:** Mehedi Hasan Hridoy  
+**ID:** 221-15-5097  
+**Section:** 61_B1  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧪 Lab Exam Overview
 
-A few resources to get you started if this is your first Flutter project:
+This project was developed as part of the **Mobile Application Development Lab Exam**. The output of the application is demonstrated using the screenshots below.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✅ Application Output
+
+### 🖼️ Screen 1
+
+![Screen 1](assets/screen1.png)
+
+---
+
+### 🖼️ Screen 2
+
+![Screen 2](assets/screen2.png)
+
+---
+
+## 📁 Assets Used
+
+The following image assets were included in the `pubspec.yaml` file:
+
+```yaml
+assets:
+  - assets/screen1.png
+  - assets/screen2.png
